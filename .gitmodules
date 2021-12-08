@@ -1,0 +1,6 @@
+[submodule "CV"]
+	path = CV
+	url = https://github.com/MariiaTyshkovets/CV
+[submodule "art"]
+	path = art
+	url = https://github.com/MariiaTyshkovets/art
